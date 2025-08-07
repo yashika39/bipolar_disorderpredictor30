@@ -1,4 +1,10 @@
 text,label
-"Patient describes feeling euphoric and energetic, sleeping less...",bipolar
-"The patient exhibits flat affect, delusional thinking...",schizophrenia
-"Subject is generally healthy and reports normal mood swings...",healthy
+"Patient describes feeling euphoric and energetic, sleeping less and talking rapidly about grand plans...",bipolar
+"I haven’t slept in days, I’m invincible and my mind is racing from one idea to the next...",bipolar
+"My mood swings rapidly—I feel on top of the world one moment and completely hopeless the next...",bipolar
+"The patient exhibits flat affect, delusional thinking, and disorganized speech during the interview...",schizophrenia
+"I hear voices that tell me people are watching my every move, and I feel disconnected from reality...",schizophrenia
+"There’s a sense of paranoia. My thoughts feel blocked and I sometimes make no sense when speaking...",schizophrenia
+"Subject is generally healthy, waking up refreshed and engaging in routine activities without mood swings...",healthy
+"I feel calm, my mood is steady, and my focus is good while interacting with others normally...",healthy
+"I go through normal stress but bounce back quickly and maintain good relationships and daily structure...",healthy
